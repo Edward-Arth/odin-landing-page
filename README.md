@@ -1,1 +1,1 @@
-# odin-landing-page
+In this project, I consolidate flexbox css basics by creating a web page from a design provided by The Odin Project's curriculum.
