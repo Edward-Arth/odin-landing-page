@@ -68,9 +68,30 @@ ul {
 
 .placeholder {
     background: grey;
-    padding: 100px;
-    margin-left: 220px;
+    margin-left: 240px;
     width: 300px;
     display: flex;
     justify-content: center;
+}
+
+.info {
+    display:flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 36px;
+    font-weight: bolder;
+    color:#1F2937;
+}
+
+.image-row {
+    display:flex;
+    justify-content: center;
+}
+
+#lion2,
+#lion3,
+#lion4,
+#lion5 {
+    max-width: 150px;
+    margin:20px
 }
