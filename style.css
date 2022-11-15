@@ -98,7 +98,7 @@ ul {
 
 .quote {
     margin-top: 40px;
-    padding:100px;
+    padding:80px;
     background-color: #E5E7EB;
     display: flex;
     justify-content: center;
@@ -117,4 +117,39 @@ ul {
     margin-left:320px;
     font-weight: bold;
     font-style: normal;
+}
+
+.blue {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    padding:30px;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 10px;
+    margin-top: 80px;
+}
+
+.call {
+    color:#E5E7EB;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#fine {
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.button2 {
+    margin-left: 80px;
+    margin-top: 10px;
+    border:2px;
+    border-style: solid;
+    padding:5px;
+    border-color:#E5E7EB;
+    border-radius: 10px;
+    color:#E5E7EB;
+    padding-left: 20px;
+    padding-right:20px;
 }
