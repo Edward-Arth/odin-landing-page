@@ -95,3 +95,26 @@ ul {
     max-width: 150px;
     margin:20px
 }
+
+.quote {
+    margin-top: 40px;
+    padding:100px;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+
+#quote-meat {
+    font-size: 36px;
+    width: 570px;
+    color:#1F2937;
+    font-style: oblique;
+    line-height: 80%;
+}
+
+#quoted {
+    font-size:25px;
+    margin-left:320px;
+    font-weight: bold;
+    font-style: normal;
+}
